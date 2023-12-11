@@ -9,7 +9,6 @@ I am a software developer, focused on web technologies. I have knowledge in Comp
 
 You can get in touch with me by following these links : 
 
-[![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15550313/mohammad-ahmadi)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/mohammad-ahmadi-a4b70a1b8)
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohammadahmadi.me)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mohammadahmadil)
